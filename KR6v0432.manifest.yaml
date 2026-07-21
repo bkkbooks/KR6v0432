@@ -18,12 +18,12 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0432_000.yaml, hash: 'sha256:547368c56120ad3dc67aadd33bba87f23c22ea74a43dc7d353d4b4c217259dfc'}
+  - {seq: 0, filename: KR6v0432_000.yaml, hash: 'sha256:91bc766d2896d10cb5731d0cb4456c9bdbafbae024941d2a34543f3b6110bbfd'}
   - {seq: 1, filename: KR6v0432_001.yaml, hash: 'sha256:0d9d3d36343c58655d216ef84aecc2834f3b0a0794ce8cc0084d93ea8d5f9e6b'}
   - {seq: 2, filename: KR6v0432_002.yaml, hash: 'sha256:621f0d668012dd273efcf9fa0b9e7af8221931181e3910fed43c0c08e2917f2d'}
   - {seq: 3, filename: KR6v0432_003.yaml, hash: 'sha256:7d10b6d9242f9469e5a35e8dce52c7ef96d4144c8c3ce7e995b775cf679cc8b1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0432_000.markers.yaml, hash: 'sha256:f349ce70a790872ca02130f62f0c8e748e12aaf6d14210db860031179142d8a7'}
+  - {seq: 0, role: markers, filename: assets/KR6v0432_000.markers.yaml, hash: 'sha256:0139f727403df26e975fbc81638071d1aaff18ea6b5e27056e4c8bf8691c5480'}
   - {seq: 1, role: markers, filename: assets/KR6v0432_001.markers.yaml, hash: 'sha256:5e2d90202a0346f73e8a38bc74831bff7d8ec480182391cd7703038e8f0a9ebd'}
   - {seq: 2, role: markers, filename: assets/KR6v0432_002.markers.yaml, hash: 'sha256:3f3949238970603e84fb99e70fae2445959c706e6fd8a7f336e204095f2ce88b'}
   - {seq: 3, role: markers, filename: assets/KR6v0432_003.markers.yaml, hash: 'sha256:7fcb37b43ed6548f9920127a4a1b423c0a391a59988caaeb86fa00be76441d53'}
@@ -32,7 +32,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0432_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0432_B_000-mulu-2
     span:
-    - front
+    - body
     - 7
     - 7
   label: 宇佐美勝夫序
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0432_B_000-mulu-3
     span:
-    - front
+    - body
     - 204
     - 204
   label: 惠勤序
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0432_B_000-mulu-4
     span:
-    - front
+    - body
     - 897
     - 897
   label: 自序
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0432_B_000-mulu-5
     span:
-    - front
+    - body
     - 1394
     - 1394
   label: 凡例
@@ -82,7 +82,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0432_B_000-mulu-6
     span:
-    - front
+    - body
     - 2458
     - 2458
   label: 上編目次
@@ -92,7 +92,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0432_B_000-mulu-7
     span:
-    - front
+    - body
     - 7710
     - 7710
   label: 中編目次
@@ -9318,7 +9318,7 @@ table_of_contents:
   label: 牧牛歌
   type: mulu
   level: 1
-hash: sha256:2cd9287c859bb69073a994e9be7f395ca06b9e98713bcbef4f659c44af19df0b
+hash: sha256:1081345c9c555f1e6b9d4ed9e0f6268c2e34844a8be9b2edaa2437650796d6b5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
